@@ -2,7 +2,7 @@
 
 Hi, I'm Paul. I am a recent graduate of Central Piedmont Community College. I majored in Cybersecurity, and I want to use this website to showcase the skills I have developed to a future employer. 
 
-[Projects](./projects.md)
+[Here are my projects](./projects.md)!
 
 
 <dl>
